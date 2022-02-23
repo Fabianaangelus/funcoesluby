@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.exe
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.deps.json
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.json
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.dev.json
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\itang\source\repos\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfo.cs
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\itang\source\repos\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.genruntimeconfig.cache

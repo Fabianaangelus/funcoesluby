@@ -1,0 +1,5 @@
+C:\Users\itang\source\repos\BuscarElementosFaltantes\obj\Debug\netcoreapp3.1\BuscarElementosFaltantes.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\BuscarElementosFaltantes\obj\Debug\netcoreapp3.1\BuscarElementosFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\BuscarElementosFaltantes\obj\Debug\netcoreapp3.1\BuscarElementosFaltantes.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\BuscarElementosFaltantes\obj\Debug\netcoreapp3.1\BuscarElementosFaltantes.AssemblyInfo.cs
+C:\Users\itang\source\repos\BuscarElementosFaltantes\obj\Debug\netcoreapp3.1\BuscarElementosFaltantes.csproj.CoreCompileInputs.cache

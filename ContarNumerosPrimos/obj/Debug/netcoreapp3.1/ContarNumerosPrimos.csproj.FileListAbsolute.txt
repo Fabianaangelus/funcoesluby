@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.AssemblyInfo.cs
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.exe
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.deps.json
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.runtimeconfig.json
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.runtimeconfig.dev.json
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.dll
+C:\Users\itang\source\repos\ContarNumerosPrimos\bin\Debug\netcoreapp3.1\ContarNumerosPrimos.pdb
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.dll
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.pdb
+C:\Users\itang\source\repos\ContarNumerosPrimos\obj\Debug\netcoreapp3.1\ContarNumerosPrimos.genruntimeconfig.cache

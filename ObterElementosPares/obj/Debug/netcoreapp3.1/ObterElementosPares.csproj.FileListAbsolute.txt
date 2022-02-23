@@ -1,0 +1,13 @@
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.AssemblyInfo.cs
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.exe
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.deps.json
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.runtimeconfig.json
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.runtimeconfig.dev.json
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.dll
+C:\Users\itang\source\repos\ObterElementosPares\bin\Debug\netcoreapp3.1\ObterElementosPares.pdb
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.dll
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.pdb
+C:\Users\itang\source\repos\ObterElementosPares\obj\Debug\netcoreapp3.1\ObterElementosPares.genruntimeconfig.cache

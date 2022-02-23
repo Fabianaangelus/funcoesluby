@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.exe
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.deps.json
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.json
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.dev.json
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\itang\source\repos\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfo.cs
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\itang\source\repos\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.genruntimeconfig.cache

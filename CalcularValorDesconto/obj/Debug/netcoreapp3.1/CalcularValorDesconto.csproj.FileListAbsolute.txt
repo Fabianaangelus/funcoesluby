@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.AssemblyInfo.cs
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.exe
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.deps.json
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.runtimeconfig.json
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.runtimeconfig.dev.json
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.dll
+C:\Users\itang\source\repos\CalcularValorDesconto\bin\Debug\netcoreapp3.1\CalcularValorDesconto.pdb
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.dll
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.pdb
+C:\Users\itang\source\repos\CalcularValorDesconto\obj\Debug\netcoreapp3.1\CalcularValorDesconto.genruntimeconfig.cache

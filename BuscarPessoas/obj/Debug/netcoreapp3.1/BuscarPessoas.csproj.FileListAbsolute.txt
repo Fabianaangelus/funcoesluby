@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.AssemblyInfo.cs
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.exe
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.deps.json
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.runtimeconfig.json
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.runtimeconfig.dev.json
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.dll
+C:\Users\itang\source\repos\BuscarPessoas\bin\Debug\netcoreapp3.1\BuscarPessoas.pdb
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.dll
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.pdb
+C:\Users\itang\source\repos\BuscarPessoas\obj\Debug\netcoreapp3.1\BuscarPessoas.genruntimeconfig.cache

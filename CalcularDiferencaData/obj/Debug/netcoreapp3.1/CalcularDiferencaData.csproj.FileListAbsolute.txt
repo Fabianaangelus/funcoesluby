@@ -1,0 +1,13 @@
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.exe
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.deps.json
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.json
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.dev.json
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\itang\source\repos\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfo.cs
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\itang\source\repos\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.genruntimeconfig.cache
