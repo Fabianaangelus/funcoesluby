@@ -1,0 +1,14 @@
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.csproj.AssemblyReference.cache
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.AssemblyInfoInputs.cache
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.AssemblyInfo.cs
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.exe
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.deps.json
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.runtimeconfig.json
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.runtimeconfig.dev.json
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.dll
+C:\Users\itang\source\repos\ExercicioFatorial\bin\Debug\netcoreapp3.1\ExercicioFatorial.pdb
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.dll
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.pdb
+C:\Users\itang\source\repos\ExercicioFatorial\obj\Debug\netcoreapp3.1\ExercicioFatorial.genruntimeconfig.cache

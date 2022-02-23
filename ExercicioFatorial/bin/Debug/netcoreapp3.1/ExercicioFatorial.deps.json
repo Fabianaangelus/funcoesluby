@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioFatorial/1.0.0": {
+        "runtime": {
+          "ExercicioFatorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFatorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
