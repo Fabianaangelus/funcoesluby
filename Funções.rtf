@@ -1,0 +1,347 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1046{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang22 BuscarElementosFaltantes\par
+\par
+using System;\par
+using System.Linq;\par
+\par
+namespace BuscarElementosFaltantes\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            static void Main(string[] args)\par
+            \{\par
+\par
+                int[] vetor1 = new int[] \{ 1, 2, 3, 4, 5 \};\par
+                int[] vetor2 = new int[] \{ 1, 2, 5 \};\par
+                ObterElementosFaltantes(vetor1, vetor2);\par
+\par
+            \}\par
+        \}\par
+\par
+        private static int[] ObterElementosFaltantes(int[] vetor1, int[] vetor2)\par
+        \{\par
+\par
+            var result = vetor1.Except(vetor2);\par
+            foreach (var item in result)\par
+            \{\par
+                Console.WriteLine(item);\par
+            \}\par
+\par
+            return result.ToArray();\par
+        \}\par
+    \}\par
+    \}\par
+\}\par
+\par
+BuscarPessoas\par
+\par
+using System;\par
+using System.Linq;\par
+\par
+namespace BuscarPessoas\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            string[] vetor = new string[] \{\par
+                                            "John Doe",\par
+                                            "Jane Doe",\par
+                                            "Alice Jones",\par
+                                            "Bobby Louis",\par
+                                            "Lisa Romero"\};\par
+            Console.WriteLine("Fa\'e7a uma busca");\par
+            BuscarPessoa(vetor, "John Doe");\par
+\par
+        \}\par
+        public static string[] BuscarPessoa(string[] vetor, string nome)\par
+        \{\par
+            var ret = vetor.Where(p => p == nome).FirstOrDefault();\par
+\par
+            Console.WriteLine($"\{ret\}");\par
+            return new string[] \{ ret \};\par
+        \}\par
+    \}\par
+\}\par
+\par
+CalcularDiferencaData\par
+\par
+using System;\par
+using System.Linq;\par
+\par
+namespace BuscarElementosFaltantes\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            static void Main(string[] args)\par
+            \{\par
+\par
+                int[] vetor1 = new int[] \{ 1, 2, 3, 4, 5 \};\par
+                int[] vetor2 = new int[] \{ 1, 2, 5 \};\par
+                ObterElementosFaltantes(vetor1, vetor2);\par
+\par
+            \}\par
+        \}\par
+\par
+        private static int[] ObterElementosFaltantes(int[] vetor1, int[] vetor2)\par
+        \{\par
+\par
+            var result = vetor1.Except(vetor2);\par
+            foreach (var item in result)\par
+            \{\par
+                Console.WriteLine(item);\par
+            \}\par
+\par
+            return result.ToArray();\par
+        \}\par
+    \}\par
+    \}\par
+\}\par
+\par
+CalcularPremio\par
+\par
+using System;\par
+\par
+namespace CalcularPremio\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+           \par
+\par
+            Console.WriteLine("Calcular Pr\'eamio");\par
+            Console.WriteLine("Digite o valor do premio...");\par
+            double valorPremio = Convert.ToDouble(Console.ReadLine());\par
+            Console.WriteLine("Ditite o tipo...");\par
+            string tipo = Console.ReadLine();\par
+            Console.WriteLine("Digite o valor fator");\par
+           // Console.ReadKey();\par
+\par
+            string valorFatorInformado = Console.ReadLine();\par
+\par
+            double _fatorValor = 0;\par
+            if (!string.IsNullOrEmpty(valorFatorInformado))\par
+                _fatorValor = Convert.ToDouble(valorFatorInformado);\par
+\par
+            double resultado = CalcularPremio(valorPremio, tipo, _fatorValor);\par
+\par
+            Console.WriteLine($"Valor do premio \'e9 : \{resultado.ToString()\}");\par
+\par
+            Console.ReadKey();\par
+\par
+        \}\par
+       \par
+\par
+        public static double CalcularPremio(double valorPremio, string tipo, double valorFator)\par
+        \{\par
+            double fator = 0;\par
+            switch (tipo)\par
+            \{\par
+\par
+                case "basic":\par
+                    fator = 1;\par
+                    break;\par
+                case "vip":\par
+                    fator = 1.2;\par
+                    break;\par
+                case "premium":\par
+                    fator = 1.5;\par
+                    break;\par
+                case "deluxe":\par
+                    fator = 1.8;\par
+                    break;\par
+                case "sprecial":\par
+                    fator = 2;\par
+                    break;\par
+                default:\par
+                    break;\par
+            \}\par
+\par
+            if (valorFator > 0)\par
+                fator = valorFator;\par
+\par
+            return valorPremio + fator;\par
+        \}\par
+\par
+    \}\par
+\}\par
+\par
+CalcularValorDesconto\par
+\par
+using System;\par
+\par
+namespace CalcularValorDesconto\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            double valor = 0;\par
+            double percentual = 0;\par
+            double valor_final; \par
+\par
+            Console.WriteLine("Insira valor desejado");\par
+            valor = Convert.ToDouble(Console.ReadLine());\par
+\par
+            Console.WriteLine("Digite o valor do desconto a ser aplicado");\par
+            percentual = Convert.ToDouble( Console.ReadLine());\par
+\par
+            var valorPercentual = percentual / 100.0;\par
+\par
+            valor_final = valor - (valorPercentual * valor);\par
+            \par
+            Console.WriteLine( valor_final);\par
+\par
+        \}\par
+    \}\par
+\}\par
+\par
+CalcularVogais\par
+\par
+using System;\par
+using System.Linq;\par
+\par
+namespace CalcularVogais\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            string texto; \par
+            int i, cv; \par
+            char[] vogais = \{ 'a', 'e', 'i', 'o', 'u' \}; \par
+            int total = 0; \par
+\par
+\par
+            Console.WriteLine("Digita uma string: ");\par
+            texto = Console.ReadLine(); \par
+\par
+            for (i = 0; i <= texto.Length - 1; i++) \par
+                for (cv = 0; cv <= 4; cv++) \par
+                \{\par
+                    if (Convert.ToChar(texto.Substring(i, 1)) == vogais[cv])\par
+                    \{\par
+                        total++;\par
+                    \}\par
+\par
+                \}\par
+            Console.Write(total); \par
+            Console.ReadKey();\par
+\par
+        \}\par
+    \}\par
+\}\par
+ContarNumerosPrimos\par
+\par
+using System;\par
+\par
+namespace ContarNumerosPrimos\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            Console.WriteLine("Contar numeros primos : Entre com o valor diferente de 1 e 2...");\par
+\par
+            ContarNumerosPrimos(Convert.ToInt32(Console.ReadLine()));\par
+\par
+            Console.ReadKey();\par
+\par
+\par
+\par
+        \}\par
+\par
+        public static void ContarNumerosPrimos(int numero)\par
+        \{\par
+            if (numero == 1 || numero == 2)\par
+            \{\par
+                Console.WriteLine("Numero invalido, digite um valor diferente de 1 ou 2");\par
+\par
+                Console.ReadKey();\par
+            \}\par
+            else\par
+            \{\par
+                int numeroInteiro;\par
+                for (int i = 3; i <= numero; i++)\par
+                \{\par
+                    if ((i / 1 == i) && (i / i == 1))\par
+                    \{\par
+                        if (!int.TryParse((i / 2.0).ToString(), out numeroInteiro))\par
+                            Console.WriteLine($"Os numeros primos sao: \{i.ToString()\}");\par
+                    \}\par
+                \}\par
+            \}\par
+        \}\par
+    \}\par
+\}\par
+        \par
+ExercicioFatorial\par
+using System;\par
+\par
+namespace ExercicioFatorial\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            \par
+\par
+            \{\par
+                Console.WriteLine("Digite um valor maior que 1...");\par
+                double resultado = CalcularFatorial(Convert.ToInt32(Console.ReadLine()));\par
+                Console.WriteLine($"Valor fatorial \'e9: \{resultado.ToString()\}");\par
+                Console.ReadKey();\par
+\par
+            \}\par
+        \}\par
+\par
+        private static double CalcularFatorial(int numero)\par
+        \{\par
+            double resultado = 1;\par
+            while (numero != 1)\par
+            \{\par
+                resultado = resultado * numero;\par
+                numero = numero - 1;\par
+            \}\par
+            return resultado;\par
+        \}\par
+    \}\par
+\}\par
+ObterElementosPares\par
+\par
+using System;\par
+\par
+namespace ObterElementosPares\par
+\{\par
+    class Program\par
+    \{\par
+        static void Main(string[] args)\par
+        \{\par
+            Console.WriteLine("Listar numeros pares");\par
+\par
+            int[] numeros = new int[] \{ 1, 2, 3, 4, 5 \};\par
+\par
+            ObterElementosPares(numeros);\par
+\par
+\par
+        \}\par
+        public static void ObterElementosPares(int[] vetor)\par
+        \{\par
+            Console.WriteLine("Os numeros pares sao...");\par
+            foreach (var item in vetor)\par
+            \{\par
+                if (item % 2 == 0)\par
+                    Console.WriteLine($"\{item\}");\par
+            \}\par
+        \}\par
+    \}\par
+\}\par
+    \par
+}
+ 
